@@ -55,7 +55,7 @@ Evaluated on the held-out test set (`9,000` samples):
 
 The saved artifact (`best_model.joblib`) contains both the fitted `ColumnTransformer` and the tuned `AdaBoostClassifier`, allowing direct inference on raw input data.
 
-* [Download Pre-trained Pipeline (best_model.joblib)](YOUR_GOOGLE_DRIVE_OR_RELEASE_LINK_HERE)
+* [Download Pre-trained Pipeline (best_model.joblib)](https://drive.google.com/file/d/1yMqdS_siM78NBDKUowkoRHSoB4VAiz6V/view?usp=sharing)
 
 ```python
 import joblib
